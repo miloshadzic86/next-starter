@@ -1,8 +1,9 @@
-# Next.js(12) Typescript Tailwind starter
+# Next.js(**12**) Typescript Tailwind starter
 
 ## Packages:
 
 - Axios
+- Typescript
 
 ---
 
