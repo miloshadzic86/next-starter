@@ -2,7 +2,6 @@
 
 ## Packages:
 
-- Typescript
 - Axios
 - React Query
 
