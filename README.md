@@ -5,8 +5,6 @@
 - Axios
 - React Query
 
----
-
 ## **TODO'S**
 
-- Add font for project
+- Fix starter code / change to light mode

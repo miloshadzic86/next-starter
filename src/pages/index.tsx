@@ -4,7 +4,7 @@ const values = ['One Longerone...', 'two', 'three', 'four'];
 
 const Home: NextPage = () => {
 	return (
-		<div className="min-h-screen flex bg-backgroundDark text-gray-400 font-verdana">
+		<div className="min-h-screen flex bg-backgroundDark text-gray-400 font-poppins">
 			<SideBar />
 			<ContentContainer />
 		</div>
