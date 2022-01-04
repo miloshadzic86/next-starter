@@ -1,6 +1,6 @@
-# Next.js **12** | Typescript | Tailwind starter
+# Next.js **12** starter with Tailwind css
 
-## Packages:
+## Packages included:
 
 - Axios
 - React Query
